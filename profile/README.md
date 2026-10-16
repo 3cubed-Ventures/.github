@@ -21,6 +21,9 @@ This organization is the home of 3cubed's **exploratory software projects**:
 tools and experiments we build for our own use, alongside the systems that run
 the firm. Most of the work here is private.
 
+The other organizations in the 3C BUILD enterprise are listed at
+[3cubed-ventures.github.io/3c-build](https://3cubed-ventures.github.io/3c-build/).
+
 <p align="center">
   <sub><a href="https://3cubed.vc">3cubed.vc</a></sub>
 </p>
